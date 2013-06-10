@@ -1,0 +1,37 @@
+{
+  "name": "myreader",
+  "preferGlobal": true,
+  "version": "0.0.1",
+  "author": {
+    "name": "wsmlby",
+    "email": "wsmlby@gmail.com"
+  },
+  "description": "my own google reader replacement",
+  "contributors": [
+    {
+      "name": "wsmlby",
+      "email": "wsmlby@gmail.com"
+    }
+  ],
+  "main": "./lib/reader",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wsmlby/myreader.git"
+  },
+  "keywords": [
+    "rss",
+    "reader",
+    "feed"
+    ],
+  "dependencies": {
+   
+  },
+  "analyze": false,
+  "devDependencies": {},
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.10"
+  },
+  "readmeFilename": "README.md",
+  "bundleDependencies": []
+}
