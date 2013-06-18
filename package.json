@@ -24,7 +24,8 @@
     "feed"
     ],
   "dependencies": {
-    "xml2js":"*"
+    "xml2js":"*",
+    "nodepie":"*"
   },
   "analyze": false,
   "devDependencies": {},
