@@ -1,7 +1,7 @@
 {
   "name": "myreader",
   "preferGlobal": true,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": {
     "name": "wsmlby",
     "email": "wsmlby@gmail.com"
@@ -24,7 +24,7 @@
     "feed"
     ],
   "dependencies": {
-   
+    "xml2js":"*"
   },
   "analyze": false,
   "devDependencies": {},
